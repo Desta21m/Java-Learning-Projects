@@ -167,6 +167,9 @@ class i_love {
         System.out.print("                   *");
         System.out.print("            ***********");
         System.out.print("                   *  *");
+        System.out.println();
+        System.out.println();
+        System.out.println();
 
 
     }
